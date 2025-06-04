@@ -1,8 +1,3 @@
-function hello() {
-  console.log("hi");
-console.log("chicken")
-}
+let mynewvariable = "example";
 
-hello();
- console.log("hello");
-hello();
+console.log(mynewvariable);
